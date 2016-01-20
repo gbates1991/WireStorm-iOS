@@ -2,7 +2,7 @@
 //  APIManager.swift
 //  WireStorm
 //
-//  Created by Zhang Yi on 21/1/2016.
+//  Created by Greg Bates on 21/1/2016.
 //
 //
 
